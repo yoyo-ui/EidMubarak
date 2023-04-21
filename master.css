@@ -16,6 +16,7 @@ p {
 }
 
 body {
+     background-size: 720px;
     background-repeat: repeat;
     background-image: url(143.jpg)
 }
