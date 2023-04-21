@@ -16,5 +16,6 @@ p {
 }
 
 body {
-    background-image: url(143.jpg);
+    background-repeat: repeat;
+    background-image: url(143.jpg)
 }
